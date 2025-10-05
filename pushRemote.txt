@@ -1,0 +1,6 @@
+1. GitHub account 
+2. empty repo
+3. local system
+	3.1 enter global user name
+	3.2 enter global user email
+4. git push
